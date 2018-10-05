@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-network-information",
-  "version": "2.0.2-dev",
+  "name": "cordova-plugin-apics-network-information",
+  "version": "1.0.0",
   "description": "Cordova Network Information Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -15,6 +15,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/apache/cordova-plugin-network-information"
+  },
+  "publishConfig": {
+    "registry": "https://nexus3-dev.portofantwerp.com/repository/amaris-npm-internal"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
